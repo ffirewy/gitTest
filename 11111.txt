@@ -4,9 +4,3 @@ hahahhahah
 
 
 11111111a
-
-<<<<<<< HEAD
-zzzzzzzzzzzzzzzzzzzzzzzzzzz
-=======
-yyyyyyyyyyyyyyyy
->>>>>>> origin/master
